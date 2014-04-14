@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2014-04-15 01:06:40
+categories: jekyll update
+---
+一年之前的计划现在才得以实施，Blog alpha版本完成。
+
+为着心中的梦想前行！
+
+当然，前行途中我不是一个人。
